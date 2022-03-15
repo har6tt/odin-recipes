@@ -1,0 +1,22 @@
+img {
+    height: 400px;
+    width: auto;
+
+    border: 8px solid;
+    border-color: blanchedalmond;
+    padding: 6px;
+}
+
+body {
+    background-color: black;
+    color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+    color: blanchedalmond;
+}
+
+h3 {
+    color: peachpuff;
+}
