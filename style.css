@@ -70,7 +70,8 @@ a {
     width: auto;
     margin: 20px;
     padding: 40px;
-    font-size: 27px;
+    font-size: 25px;
+    font-weight: bold;
 }
 
 a .item {
